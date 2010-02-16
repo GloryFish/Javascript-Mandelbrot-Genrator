@@ -1,0 +1,11 @@
+
+README
+javascript-mandelbrot-generator
+ 
+Created by Jay Roberts on 2010-02-16.
+Copyright 2009 Jay Roberts. Some rights reserved.
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Generates a Mandelbrot fractal. See an example here:
+
+http://mandelbrot.gloryfish.org/
